@@ -19,10 +19,9 @@ a população(células vivas) crescerem sem limite, sumirem completamente ou se 
 - O botão "RESET" irá retornar ao estado inicial do jogo, em que todas as células se encontram mortas.
 
 Como executar o jogo:
-1 - Faça o download da pasta do jogo "JogoDaVida", pode ser feito pelo link <> ao clicar em "Code" e em "Download Zip".
+1 - Faça o download da pasta do jogo "JogoDaVida", pode ser feito pelo link <https://github.com/GuilhermePeres/Jogo-da-Vida> ao clicar em "Code" e em "Download Zip". 
 2 - Você irá precisar de um descompactador de arquivos, como "Winrar" para que possa descompactar o arquivo zip.
-3 - Após descompactar, acesse a pasta "JogoDaVida" e dê um duplo click sobre o arquivo "index.html" para abrir o jogo em seu
-navegador, ou então, pode clicar com o botão direito do mouse sobre o arquivo "index.html", clicar em "abrir com" e clicar no navegador 
-de sua escolha.
+3 - Após descompactar, acesse a pasta "JogoDaVida" e dê um duplo click sobre o arquivo "index.html" para abrir o jogo em seu navegador, ou então, pode clicar com o 
+botão direito do mouse sobre o arquivo "index.html", clicar em "abrir com" e clicar no navegador de sua escolha.
 
 Se você quiser saber mais sobre o Jogo da Vida de John Horton Conway basta acessar o site <https://pt.wikipedia.org/wiki/Jogo_da_vida>.
